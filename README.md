@@ -1,6 +1,6 @@
 # no-ai-slop-writing-rules
 
-[![skills.sh](https://skills.sh/b/realrossmanngroup/no_ai_slop_writing_rules)](https://skills.sh/realrossmanngroup/no_ai_slop_writing_rules)
+[![skills.sh](https://skills.sh/b/buwebteam/no_ai_slop_writing_rules)](https://skills.sh/buwebteam/no_ai_slop_writing_rules)
 
 > # 👋 Hi, you were probably sent here.
 >
@@ -41,7 +41,7 @@ Install the skills into an agent project, drop this folder next to a project, or
 ### CLI install
 
 ```bash
-npx skills add realrossmanngroup/no_ai_slop_writing_rules
+npx skills add buwebteam/no_ai_slop_writing_rules
 ```
 
 Skills install to `.agents/skills/` in your project.
@@ -49,14 +49,14 @@ Skills install to `.agents/skills/` in your project.
 ### Claude Code plugin
 
 ```bash
-/plugin marketplace add realrossmanngroup/no_ai_slop_writing_rules
+/plugin marketplace add buwebteam/no_ai_slop_writing_rules
 /plugin install no-ai-slop-writing-rules
 ```
 
 ### Clone and copy
 
 ```bash
-git clone https://github.com/realrossmanngroup/no_ai_slop_writing_rules.git
+git clone https://github.com/buwebteam/no_ai_slop_writing_rules.git
 cp -r no_ai_slop_writing_rules/skills/* your-project/.agents/skills/
 ```
 
