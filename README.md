@@ -71,7 +71,7 @@ You can also read the files yourself as a style guide. Every file here obeys its
 | `.claude-plugin/marketplace.json` | Claude Code plugin marketplace manifest. |
 | `skills/no-ai-slop/SKILL.md` | The anti-slop rules as actionable guidance, with WRONG/RIGHT worked examples and a self-check pass. |
 | `skills/no-ai-slop/references/ai-writing-detection.md` | The full banned-words reference: verbs, adjectives, transitions, phrases, intensifiers, heading anti-patterns, academic tells, hedging markers, and structural and statistical patterns. |
-| `skills/rossmann-voice/SKILL.md` | The voice profile: sentence-level rules, paragraph structure, drift prevention, the Claim-Mechanism-Reality argument pattern, a vocabulary guide, a DO/DON'T table, and the statistical fingerprint. |
+| `skills/developer-readme-voice/SKILL.md` | The voice profile: sentence-level rules, paragraph structure, drift prevention, the Claim-Mechanism-Reality argument pattern, a vocabulary guide, a DO/DON'T table, and the statistical fingerprint. |
 | `.claude/skills/` | Claude Code project-local mirror of the published skills. |
 
 ## Scope

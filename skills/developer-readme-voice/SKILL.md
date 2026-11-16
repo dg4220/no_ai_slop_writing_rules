@@ -1,5 +1,5 @@
 ---
-name: rossmann-voice
+name: developer-readme-voice
 description: "Louis Rossmann's writing voice for general prose: testable-number density, high sentence-length variance, claim-then-proof structure, contractions, contempt shown through precision. Consult when writing in his voice."
 ---
 

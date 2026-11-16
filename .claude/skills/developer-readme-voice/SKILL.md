@@ -1,5 +1,5 @@
 ---
-name: readme-writer
+name: developer-readme-voice
 description: Write, revise, and review accurate, useful README files for repositories in the bu-ist GitHub organization. Use when documenting a repository, development setup, commands, configuration, or project operations.
 ---
 

@@ -17,7 +17,7 @@
       "strict": false,
       "skills": [
         "./skills/no-ai-slop",
-        "./skills/rossmann-voice"
+        "./skills/developer-readme-voice"
       ]
     }
   ]

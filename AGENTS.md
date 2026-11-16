@@ -11,7 +11,7 @@ skills/
 ├── no-ai-slop/
 │   ├── SKILL.md
 │   └── references/
-└── rossmann-voice/
+└── developer-readme-voice/
     └── SKILL.md
 ```
 
@@ -20,7 +20,7 @@ The `.claude/skills/` directory is kept for Claude Code project-local use. Keep 
 ## Published Skills
 
 - `no-ai-slop`: Rules and worked examples for writing prose that does not read like AI-generated slop.
-- `rossmann-voice`: Louis Rossmann's writing voice for general prose.
+- `developer-readme-voice`: Louis Rossmann's writing voice for general prose.
 
 ## Skill Format
 

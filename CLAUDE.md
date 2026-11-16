@@ -13,11 +13,11 @@ The voice is encyclopedic precision plus the specificity of someone who has actu
 Two skills hold the working detail:
 
 - `.claude/skills/no-ai-slop/SKILL.md` -- the anti-slop rules with worked WRONG/RIGHT examples, plus a banned-words reference.
-- `.claude/skills/rossmann-voice/SKILL.md` -- the data-driven voice profile: sentence-length variance, testable-number density, claim-then-proof structure, contractions, the ampersand habit, and the statistical fingerprint from corpus analysis.
+- `.claude/skills/developer-readme-voice/SKILL.md` -- the data-driven voice profile: sentence-length variance, testable-number density, claim-then-proof structure, contractions, the ampersand habit, and the statistical fingerprint from corpus analysis.
 
 ## Operating Rules
 
-- Whenever you are asked to write or edit prose, read `.claude/skills/no-ai-slop/SKILL.md` and `.claude/skills/rossmann-voice/SKILL.md` first.
+- Whenever you are asked to write or edit prose, read `.claude/skills/no-ai-slop/SKILL.md` and `.claude/skills/developer-readme-voice/SKILL.md` first.
 - Before returning any prose, self-check it against `.claude/skills/no-ai-slop/references/ai-writing-detection.md`. Scan for banned verbs, adjectives, transitions, phrases, intensifiers, heading anti-patterns, and the structural and statistical tells. Fix what you find.
 - Apply the rules to your own output too. This file, every skill, and every reply obeys the rules it states.
 
