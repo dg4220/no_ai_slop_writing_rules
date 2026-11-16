@@ -2,12 +2,12 @@
   "name": "no-ai-slop-writing-rules",
   "owner": {
     "name": "Rossmann Group",
-    "url": "https://github.com/realrossmanngroup"
+    "url": "https://github.com/buwebteam"
   },
   "metadata": {
     "description": "Portable no-AI-slop writing rules and Rossmann-style prose guidance for agentic writing workflows",
     "version": "1.0.0",
-    "repository": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules"
+    "repository": "https://github.com/buwebteam/no_ai_slop_writing_rules"
   },
   "plugins": [
     {
